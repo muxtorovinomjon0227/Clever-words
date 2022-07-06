@@ -71,6 +71,7 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "6.1.2"
+<<<<<<< HEAD
   firebase_core:
     dependency: "direct main"
     description:
@@ -113,6 +114,8 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "0.2.0+6"
+=======
+>>>>>>> origin/main
   flutter:
     dependency: "direct main"
     description: flutter
