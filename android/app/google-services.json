@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1020344619541",
+    "project_id": "clever-words",
+    "storage_bucket": "clever-words.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1020344619541:android:12636b0c56cb240640b41c",
+        "android_client_info": {
+          "package_name": "uz.inomjon_2000.clever_words"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1020344619541-7n8g7r4ec7v8nm930kpn7s8ju7qpfqfk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqoDxx3flPvZlycvT9edFfhWyg1DWuI_4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1020344619541-7n8g7r4ec7v8nm930kpn7s8ju7qpfqfk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
